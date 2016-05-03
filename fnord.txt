@@ -1,2 +1,4 @@
 This is a sample text file.
 
+Added another line.
+
